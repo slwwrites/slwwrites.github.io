@@ -27,10 +27,12 @@ body{
 #showcase h1{
     font-size:50px;
     line-height:1.2;
+    color:aliceblue
 }
 
 #showcase p{
     font-size:20px;
+    color:aliceblue
 }
 
 #showcase .button{
